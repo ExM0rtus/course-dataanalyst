@@ -1,1 +1,1 @@
-# course-dataanalyst
+# Example of README.md
